@@ -5,7 +5,7 @@ h1{
     font-size: 50px;
 }
 .Mission{
-    color: rgb(1, 85, 85);
+    color: rgb(245, 215, 80);
 }
 section{
     display: flex;
@@ -20,7 +20,7 @@ section{
 }
 .Explore-now{
     text-decoration: none;
-    background-color: rgb(127, 229, 255);
+    background-color: rgb(0, 53, 66);
     padding: 15px 45px;
     color: white;
     font-weight: 600px;
@@ -29,4 +29,17 @@ section{
 .half-width p{
     padding-top:  20px;
     padding-bottom: 10px;
+}
+.my-mission{
+    text-align: center;
+}
+.my-mission span{
+    color: rgb(245, 215, 80);
+}
+.footer{
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+   
 }
