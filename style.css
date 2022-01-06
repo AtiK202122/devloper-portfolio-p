@@ -43,3 +43,49 @@ section{
     color: white;
    
 }
+.footer span{
+   color:  rgb(245, 215, 80);
+}
+.mvg img{
+    width: 200px;
+    height: 200px;
+}
+img.last-img{
+   width: auto;
+    height: 500px;
+}
+.quater-width1{
+    width: 30%;
+    padding-left: 10px;
+    margin-left: 5%;
+    margin-right: 5% ;
+    box-shadow : 20px 20px 10px 10PX none;
+    border-radius: 10px;
+    background-color: thistle;
+}
+.quater-width2{
+    width: 30%;
+    padding-left: 10px;
+    margin-left: 5%;
+    margin-right: 5% ;
+    box-shadow : 20px 20px 10px 10PX none;
+    border-radius: 10px;
+    background-color: rgb(173, 211, 241);
+}
+.quater-width3{
+    width: 30%;
+    padding-left: 10px;
+    margin-left: 5%;
+    margin-right: 5% ;
+    box-shadow : 20px 20px 10px 10PX none;
+    border-radius: 10px;
+    background-color: rgb(180, 238, 189);
+}
+.line{
+    border-left: 4px solid black;
+    padding-left: 7px;
+}
+.app{
+    text-align: center;
+    padding-top: 33px;
+}
