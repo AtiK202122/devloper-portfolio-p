@@ -1,0 +1,32 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.Mission{
+    color: rgb(1, 85, 85);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 10%;
+}
+.half-width img{
+    width:100%;
+}
+.Explore-now{
+    text-decoration: none;
+    background-color: rgb(127, 229, 255);
+    padding: 15px 45px;
+    color: white;
+    font-weight: 600px;
+    border-radius: 5px;
+}
+.half-width p{
+    padding-top:  20px;
+    padding-bottom: 10px;
+}
